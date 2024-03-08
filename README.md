@@ -1,5 +1,4 @@
-![image](https://github.com/developerrahulofficial/Locate.Dev/assets/83329806/1baac3e6-a638-473f-8714-d131a005d384)
-
+![Screenshot (757)](https://github.com/its-akashjha/Locate.Dev/assets/82963534/c7c01da5-09c6-4277-828e-5ed04b85d712)
 
 <h1 align="center">
   Locate.Dev - v2
@@ -57,7 +56,7 @@ Make sure you have Node.js and npm installed.
 
 ## Clone the repository
 ```
-git clone https://github.com/developerrahulofficial/Locate.Dev.git
+git clone https://github.com/its-akashjha/Locate.Dev.git
 ```
 ## Navigate to the project directory
 ```
