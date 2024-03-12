@@ -4,7 +4,7 @@
   Locate.Dev - v2
 </h1>
 <p align="center">
-  The second iteration of <a href="https://location-git-jb69.vercel.app/" target="_blank">Locate.Dev</a> built with <a href="https://react.dev/" target="_blank">React</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>.
+  The second iteration of <a href="https://locate-dev.vercel.app/" target="_blank">Locate.Dev</a> built with <a href="https://react.dev/" target="_blank">React</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>.
 </p>
 <p align="center">
  
